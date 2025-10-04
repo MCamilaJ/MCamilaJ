@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Maria Camila</h1>
+<h1 align="center">Hi 🦖, I'm Maria Camila</h1>
 <h3 align="center">I'm a full-stack developer living in Colombia and interested in technologies such as React.js, Tailwind CSS, PHP, jQuery, MySQL databases, and the MVC paradigm. I'm curious and am learning Java, React Native, and AWS.</h3>
 
-- 🌱 I’m currently learning **Java and AWS.**
+- 🧠 I’m currently learning **Java and AWS.**
 
 - 💬 Ask me about **MySQL**
 
-- 📫 How to reach me **camilad17@outlook.es**
+- 🦕 How to reach me **camilad17@outlook.es**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/maria-camila-duran-garcia/](https://www.linkedin.com/in/maria-camila-duran-garcia/)
 
